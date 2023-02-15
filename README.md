@@ -4,7 +4,7 @@ This “repository” is simply an index to my POV-Ray-related tools. My [Object
 
 ## Code
 
-- [SpectralRender modifications](Beveled Text Isosurfaces: a POV-Ray Tutorial) - Gamut mapping is added, and the composer file does not need to be edited with each project.
+- [SpectralRender modifications](https://github.com/CousinRicky/POV-SpectralRender-mods) - Gamut mapping is added, and the composer file does not need to be edited with each project.
 
 ## Tutorials
 
