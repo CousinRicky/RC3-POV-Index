@@ -9,6 +9,7 @@ This “repository” is simply an index to my POV-Ray-related tools. My [Object
 ## Tutorials
 
 - [IsoBevelTut](https://github.com/CousinRicky/IsoBevelTut) - Beveled text isosurfaces
+- [POV-Spherical_Law_of_Cosines](https://github.com/CousinRicky/POV-Spherical_Law_of_Cosines) - Spherical Law of Cosines
 
 ---
 
