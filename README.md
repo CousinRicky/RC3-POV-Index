@@ -2,8 +2,9 @@
 
 This “repository” is simply an index to my POV-Ray-related tools. My [Object Collection modules are listed in a separate index](https://github.com/CousinRicky/POV-Ray-Object-Collection), so those are not listed here.
 
-## Code
+## Include Files
 
+- [Radiosity-Pretrace](https://github.com/CousinRicky/POV-Radiosity-Pretrace) - A tool to set the pretrace parameters for POV-Ray radiosity
 - [SpectralRender modifications](https://github.com/CousinRicky/POV-SpectralRender-mods) - Gamut mapping is added, and the composer file does not need to be edited with each project.
 
 ## Tutorials
