@@ -1,4 +1,4 @@
-# CousinRicky’s POV-Ray Tools
+# CousinRicky’s POV-Ray Tools Index
 
 This “repository” is simply an index to my [POV-Ray](https://www.povray.org/)-related tools. My [Object Collection modules are listed in a separate index](https://github.com/CousinRicky/POV-Ray-Object-Collection), so those are not listed here.
 
