@@ -11,7 +11,7 @@ This “repository” is simply an index to my [POV-Ray](https://www.povray.org/
 ## Tutorials
 
 - [IsoBevelTut](https://github.com/CousinRicky/IsoBevelTut) - Beveled text isosurfaces
-- [POV-gamma-sRGB](https://github.com/CousinRicky/POV-gamma-sRGB) - Gamma and the sRGB keywords in POV-Ray
+- [POV-Gamma-sRGB](https://github.com/CousinRicky/POV-Gamma-sRGB) - Gamma and the sRGB keywords in POV-Ray
 - [POV-Spherical_Law_of_Cosines](https://github.com/CousinRicky/POV-Spherical_Law_of_Cosines) - Spherical Law of Cosines
 
 ---
