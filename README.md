@@ -4,6 +4,7 @@ This “repository” is simply an index to my [POV-Ray](https://www.povray.org/
 
 ## Include Files
 
+- [POV-LightBleed](https://github.com/CousinRicky/POV-LightBleed) - Luminous bloom post-processor
 - [POV-Ukraine](https://github.com/CousinRicky/POV-Ukraine) - Symbols of Ukraine
 - [Radiosity-Pretrace](https://github.com/CousinRicky/POV-Radiosity-Pretrace) - A tool to set the pretrace parameters for POV-Ray radiosity
 - [RC3-POV-Tools](https://github.com/CousinRicky/RC3-POV-Tools) - Miscellaneous POV-Ray include files
